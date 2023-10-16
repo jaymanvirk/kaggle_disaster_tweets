@@ -1,2 +1,1 @@
-# kaggle_disaster_tweets
-NLP with Disaster Tweets:  Baseline LSTM, GRU and their hybrid counterpart
+# Natural Language Processing with Disaster Tweets:  Assessing predictive performance of the baseline LSTM, GRU and their hybrid counterpart
